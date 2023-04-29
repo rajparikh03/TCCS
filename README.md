@@ -11,7 +11,7 @@ A Web-based application create using HTML,CSS,JS for the frontend and Flask and 
 ```bash
 git clone https://github.com/rajparikh03/TCCS.git
 ```
-- Install dependencies
+- Install dependencies-
 Move to the cloned repository directory and run
 ```bash
 pip install -r requirements.txt
